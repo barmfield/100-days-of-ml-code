@@ -19,3 +19,14 @@ period and plot a regression line on it. I used sklearn's LinearRegression
 model, but I will explore other models where trend forecasting could be useful. 
 
 Link: https://github.com/barmfield/100-days-of-ml-code/blob/master/linear_regression.ipynb
+
+### Day 2: January 4th, 2019
+
+**Today's Progress**: I refactored the code to work within a single function
+so all a user has to do is download the notebook into their directory and a csv
+from yahoo finance and can run the regression. I also added code to print the
+training and testing accuracy. My new plan for a data science project is to
+download data for all S&P 500 stocks and then run the regression and see which
+has the highest test accuracy. This would indicate whether or not that stock
+would be a good candidate for making trades based on a linear regression (under
+low volatility conditions of course). 
