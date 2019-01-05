@@ -17,3 +17,5 @@ the x axis needs to be in a 2D array. It might be fun to create a website
 where, using the yahoo finance api, a user could select any ticker for any time
 period and plot a regression line on it. I used sklearn's LinearRegression
 model, but I will explore other models where trend forecasting could be useful. 
+
+Link: https://github.com/barmfield/100-days-of-ml-code/blob/master/linear_regression.ipynb
