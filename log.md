@@ -30,3 +30,13 @@ download data for all S&P 500 stocks and then run the regression and see which
 has the highest test accuracy. This would indicate whether or not that stock
 would be a good candidate for making trades based on a linear regression (under
 low volatility conditions of course). 
+
+### Day 3: January 5th, 2019
+
+**Today's Progress**: After doing some extensive research on modeling stock
+data with python, I realized I was trying to reinvent the wheel. Instead of
+walking around like Sandra Bullock in Bird Box, I decided to start working on
+the Udemy Course Python for Finance and Machine Learning. Today I worked my way
+through some python and numpy exercises to learn more of the basics of data
+manipulation in python. I hope to have some working prototypes using this
+course soon. 
