@@ -40,3 +40,15 @@ the Udemy Course Python for Finance and Machine Learning. Today I worked my way
 through some python and numpy exercises to learn more of the basics of data
 manipulation in python. I hope to have some working prototypes using this
 course soon. 
+
+### Day 4: January 6th, 2019
+
+**Today's Progress**: Writing from Jan. 7th as I neglected to update the log
+yesterday. I spent the entire day practicing the numpy and pandas library.
+I covered some of the most common and popular funcitons of each, and learned
+how numpy is the foundation of the pandas series, which is the foundation of
+the pandas dataframe. I will need to practice these concepts a lot to make them
+stick, but already feel much more capabale of asking quesitons from data and
+getting meaningful answers. I look forward to combining numpy and pandas with
+matplotlib to create visualizations that I can share with others, and which I
+can use to communicate results.
