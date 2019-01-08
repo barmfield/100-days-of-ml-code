@@ -52,3 +52,11 @@ stick, but already feel much more capabale of asking quesitons from data and
 getting meaningful answers. I look forward to combining numpy and pandas with
 matplotlib to create visualizations that I can share with others, and which I
 can use to communicate results.
+
+### Day 5: January 7th, 2019
+
+**Today's Progress**: I spent today reviewing pandas, and then moved onto
+matplotlib and the plotting functions of pandas. I finally learned how to plot
+a stock chart directly from pandas, and am shocked at how difficult I was
+making it for myself in earlier exercises. Sharpening the ax is starting to pay
+off! 
