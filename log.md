@@ -60,3 +60,11 @@ matplotlib and the plotting functions of pandas. I finally learned how to plot
 a stock chart directly from pandas, and am shocked at how difficult I was
 making it for myself in earlier exercises. Sharpening the ax is starting to pay
 off! 
+
+### Day 6: January 8th, 2019
+
+**Today's Progress**: I spent today working with and reviewing methods for time
+series analysis with pandas. Using data from Quandl, I was able to create
+several interesting stock charts, and finished the day by learning how to add
+Bollinger Bands to a chart. Tomorrow, I will integrate everything I have
+learned so far. 
