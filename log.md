@@ -68,3 +68,11 @@ series analysis with pandas. Using data from Quandl, I was able to create
 several interesting stock charts, and finished the day by learning how to add
 Bollinger Bands to a chart. Tomorrow, I will integrate everything I have
 learned so far. 
+
+### Day 7: January 9th, 2019
+
+**Today's Progress**: I did a comparitive analysis of Ford, GM, and Tesla. I
+created charts comparing their trading volume and volitility, as well as
+rolling averages of each of their daily close prices. While it was interesting,
+I didn't get much in terms of a signal. More work on security analysis is
+required.
